@@ -4,7 +4,6 @@ public class StartUp
 {
     public static void Main(string[] args)
     {
-        //Ръста да е в см а не в метри
         Console.WriteLine("Football Game");
 
         Console.WriteLine("First lets create the teams");
