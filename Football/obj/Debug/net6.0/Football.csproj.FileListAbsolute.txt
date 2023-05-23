@@ -1,0 +1,15 @@
+/Users/icaka/RiderProjects/UNI_Football_hw/Football/bin/Debug/net6.0/Football
+/Users/icaka/RiderProjects/UNI_Football_hw/Football/bin/Debug/net6.0/Football.deps.json
+/Users/icaka/RiderProjects/UNI_Football_hw/Football/bin/Debug/net6.0/Football.runtimeconfig.json
+/Users/icaka/RiderProjects/UNI_Football_hw/Football/bin/Debug/net6.0/Football.dll
+/Users/icaka/RiderProjects/UNI_Football_hw/Football/bin/Debug/net6.0/Football.pdb
+/Users/icaka/RiderProjects/UNI_Football_hw/Football/obj/Debug/net6.0/Football.csproj.AssemblyReference.cache
+/Users/icaka/RiderProjects/UNI_Football_hw/Football/obj/Debug/net6.0/Football.GeneratedMSBuildEditorConfig.editorconfig
+/Users/icaka/RiderProjects/UNI_Football_hw/Football/obj/Debug/net6.0/Football.AssemblyInfoInputs.cache
+/Users/icaka/RiderProjects/UNI_Football_hw/Football/obj/Debug/net6.0/Football.AssemblyInfo.cs
+/Users/icaka/RiderProjects/UNI_Football_hw/Football/obj/Debug/net6.0/Football.csproj.CoreCompileInputs.cache
+/Users/icaka/RiderProjects/UNI_Football_hw/Football/obj/Debug/net6.0/Football.dll
+/Users/icaka/RiderProjects/UNI_Football_hw/Football/obj/Debug/net6.0/refint/Football.dll
+/Users/icaka/RiderProjects/UNI_Football_hw/Football/obj/Debug/net6.0/Football.pdb
+/Users/icaka/RiderProjects/UNI_Football_hw/Football/obj/Debug/net6.0/Football.genruntimeconfig.cache
+/Users/icaka/RiderProjects/UNI_Football_hw/Football/obj/Debug/net6.0/ref/Football.dll
